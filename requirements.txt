@@ -1,0 +1,10 @@
+numpy==1.26.4
+pillow==10.4.0
+matplotlib==3.9.2
+streamlit==1.38.0
+tensorflow==2.15.0
+scikit-learn==1.5.1
+streamlit_option_menu==0.3.13
+opencv-python-headless==4.10.0
+streamlit-navigation-bar==3.3.0
+streamlit-drawable-canvas==0.9.3
